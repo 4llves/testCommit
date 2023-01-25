@@ -1,0 +1,8 @@
+{
+  "name": "conventional-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/4llves/testCommit.git",
+  "author": "Jhonata Alves <jhonatab4@gmail.com>",
+  "license": "MIT"
+}
